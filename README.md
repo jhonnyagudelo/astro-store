@@ -55,3 +55,4 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 3. Clonar .env.template y renonbrar a .env
 4. Cambiar las variables de entorno
 5. `bun dev`
+# astro-store
